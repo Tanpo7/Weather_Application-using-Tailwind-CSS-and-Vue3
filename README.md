@@ -1,5 +1,7 @@
 # vue-project
 
+I have used Vue3 and Tailwind CSS for creating this weather application.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
